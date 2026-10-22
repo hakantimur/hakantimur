@@ -17,7 +17,6 @@ I work at the intersection of technical project delivery, software products, and
 | --- | --- |
 | [Oltivra](https://github.com/hakantimur/oltivra) | Architecture and implementation work for a live multiplayer trivia platform using Flutter, FastAPI, Firebase, and cloud infrastructure. |
 | [Local Ad Director](https://github.com/hakantimur/reklam-video) | An in-progress local tool exploring AI-assisted advertising video workflows and rendering. |
-| [Vivibook UI Load Testing](https://github.com/hakantimur/vivibook-ui-loadtest) | UI load-testing scripts and performance-validation work. |
 
 ## How I Approach Projects
 
